@@ -66,6 +66,7 @@ A pixel chameleon with the text **“New Me”** was used as a fun, youthful mas
 <p align="center">
   <img src="./ass%202-1-static.png" alt="New Me End of Season Sale Design" width="80%">
 </p>
+[🔗 View Adobe Express Prototype](https://new.express.adobe.com/publishedV2/urn:aaid:sc:AP:1227170b-a9bd-4204-8123-f706ba70c506?promoid=Y69SGM5H&mv=other)
 
 ---
 
